@@ -577,6 +577,7 @@ module.exports = {
     order: ['responsive'],
     outline: ['responsive', 'focus'],
     overflow: ['responsive'],
+    overscrollBehavior: ['responsive'],
     padding: ['responsive'],
     placeholderColor: ['responsive', 'focus'],
     pointerEvents: ['responsive'],
